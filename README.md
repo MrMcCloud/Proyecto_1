@@ -5,13 +5,13 @@ El usuario comenzara en un extremo del laberinto y mediante el ingreso de los ca
 
 Para el correcto funcionamiento de este programa se recomienda como requisito previo:
 
-Python 3.5 o superior. 
-Linux OS en cualquiera de sus distribuciones. 
+Python 3.5 o superior.                                                                                                           
+Linux OS en cualquiera de sus distribuciones.                                                                                   
 
 Para la ejecucion de este programa se debe:
 
-Ingresar en la consola de comandos de Linux OS. 
-Posicionarse en la carpeta donde se encuentra la carpeta "Proyecto_1". 
+Ingresar en la consola de comandos de Linux OS.                                                                                 
+Posicionarse en la carpeta donde se encuentra la carpeta "Proyecto_1".                                                           
 Ingresar la siguiente linea de comando:
  >>>python3 main.py
 
@@ -29,8 +29,8 @@ Nicolas Avila.
 
 Durante el desarrollo se tuvo en cuenta el uso de PEP-8 en es esilo de programacion. esto se puede dar cuenta en:
 
-La cantidad de caracteres por linea de codigo es menor a 79.
-La identación esta Hecha enteramente de tabulaciones.
-Cada fUncion esta separada por dos lineas de codigo en blanco.
-Se sigue el orden de prioridad al colocar en primera posición al tipo de codificación y luego importación.
-Cada operador binario esta rodeado por un espacio a cada lado.
+La cantidad de caracteres por linea de codigo es menor a 79.                                                                     
+La identación esta Hecha enteramente de tabulaciones.                                                                           
+Cada fUncion esta separada por dos lineas de codigo en blanco.                                                                   
+Se sigue el orden de prioridad al colocar en primera posición al tipo de codificación y luego importación.                       
+Cada operador binario esta rodeado por un espacio a cada lado.                                                                   
