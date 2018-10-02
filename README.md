@@ -10,8 +10,8 @@ Linux OS en cualquiera de sus distribuciones.
 
 Para la ejecucion de este programa se debe:
 
-Ingresar en la consola de comandos de Linux OS.
-Posicionarse en la carpeta donde se encuentra la carpeta "Proyecto_1".
+Ingresar en la consola de comandos de Linux OS.                                                                                 
+Posicionarse en la carpeta donde se encuentra la carpeta "Proyecto_1".                                                           
 Ingresar la siguiente linea de comando:
  >>>python3 main.py
 
