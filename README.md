@@ -1,5 +1,5 @@
 
-#Proyecto Laberinto
+Proyecto Laberinto
 
 Este proyecto consiste en una matriz de NxN (con N un numero natural cualquiera) que representara a un laberinto. Dicha representacion es generada al azar, es decir, tanto el tamaño como los caminos son generados de forma aleatoria, dando como resultado un laberinto totalmente distinto cada vez que se ejecute el programa o se reinicie este.
 El usuario comenzara en un extremo del laberinto y mediante el ingreso de los caracteres w, s, a o d podra recorerlo hasta llegar a la salida. Tras eso el usuario tendra que escojer entre reiniciar el programa, ver la ruta que a seguido y finalizar el programa.
