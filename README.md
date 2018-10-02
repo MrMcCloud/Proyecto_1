@@ -5,13 +5,13 @@ El usuario comenzara en un extremo del laberinto y mediante el ingreso de los ca
 
 Para el correcto funcionamiento de este programa se recomienda como requisito previo:
 
-Python 3.5 o superior.
-Linux OS en cualquiera de sus distribuciones.
+Python 3.5 o superior. 
+Linux OS en cualquiera de sus distribuciones. 
 
 Para la ejecucion de este programa se debe:
 
-Ingresar en la consola de comandos de Linux OS.                                                                                 
-Posicionarse en la carpeta donde se encuentra la carpeta "Proyecto_1".                                                           
+Ingresar en la consola de comandos de Linux OS. 
+Posicionarse en la carpeta donde se encuentra la carpeta "Proyecto_1". 
 Ingresar la siguiente linea de comando:
  >>>python3 main.py
 
